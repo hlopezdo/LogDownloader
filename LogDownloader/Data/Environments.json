@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "Product",
+    "IsExpanded": "True",
+    "IsChecked": "False",
+    "Children": [
+      {
+        "Name": "Develop",
+        "Url": "http://develop.enviorement.com",
+        "IsChecked": "False",
+        "IsLeaf": "True"
+      },
+      {
+        "Name": "PreRelease",
+        "IsExpanded": "True",
+        "IsChecked": "True",
+        "Url": "",
+        "Children": [
+          {
+            "Name": "Release01",
+            "Url": "http://prerelease01.enviorement.com",
+            "IsChecked": "True",
+            "IsLeaf": "True"
+          },
+          {
+            "Name": "Release02",
+            "Url": "http://prerelease02.enviorement.com",
+            "IsChecked": "False",
+            "IsLeaf": "True"
+          }
+        ]
+      },
+      {
+        "Name": "Production",
+        "IsExpanded": "True",
+        "IsChecked": "False",
+        "Children": [
+          {
+            "Name": "Node1",
+            "Url": "http://production01.enviorement.com",
+            "IsChecked": "False",
+            "IsLeaf": "True"
+          },
+          {
+            "Name": "Node2",
+            "Url": "http://production02.enviorement.com",
+            "IsChecked": "False",
+            "IsLeaf": "True"
+          },
+          {
+            "Name": "Node3",
+            "Url": "http://production03.enviorement.com",
+            "IsChecked": "False",
+            "IsLeaf": "True"
+          },
+          {
+            "Name": "Node4",
+            "Url": "http://production04.enviorement.com",
+            "IsChecked": "False",
+            "IsLeaf": "True"
+          },
+          {
+            "Name": "Node5",
+            "Url": "http://production05.enviorement.com",
+            "IsChecked": "False",
+            "IsLeaf": "True"
+          }
+        ]
+      }
+    ]
+  }
+]

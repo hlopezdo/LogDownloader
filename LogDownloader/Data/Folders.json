@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "Services",
+    "Path": "Logs/Services"
+  },
+  {
+    "Name": "WebApi",
+    "Path": "Logs/WebApi"
+  }
+]
